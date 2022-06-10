@@ -1,4 +1,4 @@
-Hi 👋 My name is Cory Clark
+Hi 👋 I'm Cory!
 ===========================
 
 Software Developer
