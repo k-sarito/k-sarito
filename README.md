@@ -4,7 +4,7 @@ Hi 👋 I'm Cory!
 Software Developer
 ------------------
 
-I am in the middle of a career shift from acting to software development! I'm currently enrolled at Nashville Software School.
+I am in the middle of a career shift from acting to software development! I'm currently employed at CGI.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [coryclark95@gmail.com](mailto:coryclark95@gmail.com)
